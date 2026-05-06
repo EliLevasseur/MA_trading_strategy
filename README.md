@@ -1,8 +1,5 @@
-# Stock Journey
-
-Stock Journey is a simple Jupyter Notebook project for testing a moving average trading strategy on stock price data.
-
-The notebook currently uses Apple (`AAPL`) as the default ticker, downloads historical prices with `yfinance`, calculates moving averages, simulates basic buy and sell decisions, and plots the strategy performance against the stock's buy-and-hold return.
+# Moving Average Strategy
+The notebook currently uses Apple (`AAPL`) as the default ticker, downloads historical prices with `yfinance`, calculates moving averages, simulates basic buy and sell decisions, and plots the strategy performance.
 
 ## What the Strategy Does
 
